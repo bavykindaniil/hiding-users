@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hiding-users/static/css/main.5181efa7.css",
+    "main.js": "/hiding-users/static/js/main.dfe029be.js",
+    "index.html": "/hiding-users/index.html",
+    "main.5181efa7.css.map": "/hiding-users/static/css/main.5181efa7.css.map",
+    "main.dfe029be.js.map": "/hiding-users/static/js/main.dfe029be.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5181efa7.css",
+    "static/js/main.dfe029be.js"
+  ]
+}
